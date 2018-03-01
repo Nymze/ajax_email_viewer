@@ -1,24 +1,11 @@
-# README
+# Ajax
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- ajouter un email
+- On peut voir le contenu d'un email en cliquant sur 'ouvrir'
+- detruire le contenu du mail en cliquant sur effacer
 
-Things you may want to cover:
+- le CSS est très minimaliste mais ça fonctionne 
 
-* Ruby version
+https://desolate-beach-72178.herokuapp.com/emails
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+:)
